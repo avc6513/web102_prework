@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <!-- <img src="https://i.imgur.com/abc123.gif" title="Video Walkthrough" alt="Video Walkthrough" /> -->
-![Video Walkthrough](https://imgur.com/a/YcxHEqI.gif)
+![Video Walkthrough](https://imgur.com/XLfq6yD)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Quicktime and Adobe  
